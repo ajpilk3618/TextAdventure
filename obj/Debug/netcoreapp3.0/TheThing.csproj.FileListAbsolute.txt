@@ -1,0 +1,11 @@
+C:\Users\apilk\source\repos\TheThing\bin\Debug\netcoreapp3.0\TheThing.exe
+C:\Users\apilk\source\repos\TheThing\bin\Debug\netcoreapp3.0\TheThing.deps.json
+C:\Users\apilk\source\repos\TheThing\bin\Debug\netcoreapp3.0\TheThing.runtimeconfig.json
+C:\Users\apilk\source\repos\TheThing\bin\Debug\netcoreapp3.0\TheThing.runtimeconfig.dev.json
+C:\Users\apilk\source\repos\TheThing\bin\Debug\netcoreapp3.0\TheThing.dll
+C:\Users\apilk\source\repos\TheThing\bin\Debug\netcoreapp3.0\TheThing.pdb
+C:\Users\apilk\source\repos\TheThing\obj\Debug\netcoreapp3.0\TheThing.csprojAssemblyReference.cache
+C:\Users\apilk\source\repos\TheThing\obj\Debug\netcoreapp3.0\TheThing.AssemblyInfoInputs.cache
+C:\Users\apilk\source\repos\TheThing\obj\Debug\netcoreapp3.0\TheThing.AssemblyInfo.cs
+C:\Users\apilk\source\repos\TheThing\obj\Debug\netcoreapp3.0\TheThing.dll
+C:\Users\apilk\source\repos\TheThing\obj\Debug\netcoreapp3.0\TheThing.pdb
